@@ -5,7 +5,7 @@ int x = 1;
 
 int main()
 {
-	std::cout << "Pelataan Kiinalaista Numeropeliä!\n";
+	std::cout << "Pelataan Kiinalaista Numeropelia!\n";
 
 	while (x != 0) {
 		std::cout << "Anna luku: ";

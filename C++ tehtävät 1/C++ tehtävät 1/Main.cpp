@@ -4,7 +4,7 @@ int x=1;
 
 int main()
 {
-	std::cout << "Pelataan Kiinalaista Numeropeliä!\n";
+	std::cout << "Pelataan Kiinalaista Numeropelia!\n";
 
 	for (;;) {
 		std::cout << "Anna luku: ";
